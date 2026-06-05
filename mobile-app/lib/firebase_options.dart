@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC3qgW1j8QRd0P1ddexpSwH782DpFf8qfs',
+    apiKey: 'AIzaSyAu2Qi5ff3ixoPuHCZXFcAA7ZusuFsPojQ',
     appId: '1:697964103328:web:4d9e2202eca4d3e1536bc5',
     messagingSenderId: '697964103328',
     projectId: 'iot-project-a67a9',
@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjalegjXuRlhy7brILbRWJga30DU-_TL8',
+    apiKey: 'AIzaSyC6fOycpEWP2AIFPIIUauDUI3Ikv7GsBtU',
     appId: '1:697964103328:android:82aca7688c91aaca536bc5',
     messagingSenderId: '697964103328',
     projectId: 'iot-project-a67a9',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBiW33PK5ioGBvfjHdo0EBLf14l7B-S65U',
+    apiKey: 'AIzaSyDj_f3H8xX79uiS_ngCf91U6iNT6GgoXRc',
     appId: '1:697964103328:ios:f7b89d7789f36ef4536bc5',
     messagingSenderId: '697964103328',
     projectId: 'iot-project-a67a9',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBiW33PK5ioGBvfjHdo0EBLf14l7B-S65U',
+    apiKey: 'AIzaSyB41idrSBOOBz1zW3gQdXrKd4FjfOzFQ6A',
     appId: '1:697964103328:ios:f7b89d7789f36ef4536bc5',
     messagingSenderId: '697964103328',
     projectId: 'iot-project-a67a9',
@@ -81,7 +81,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyC3qgW1j8QRd0P1ddexpSwH782DpFf8qfs',
+    apiKey: 'AIzaSyC7rlEdGjOU1O6YDmmVybDIQ_bpDMcGvtc',
     appId: '1:697964103328:web:046e3095bebf5210536bc5',
     messagingSenderId: '697964103328',
     projectId: 'iot-project-a67a9',
