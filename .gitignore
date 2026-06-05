@@ -1,0 +1,39 @@
+# Mac/Linux files
+.DS_Store
+.vscode/
+
+# Environment / Secrets
+.env
+.env.*
+secrets.json
+*.keystore
+*.jks
+
+# Arduino/ESP32 / PlatformIO
+firmware/.pio/
+firmware/**/*.bin
+firmware/**/*.elf
+firmware/**/*.o
+
+# Flutter
+mobile-app/.dart_tool/
+mobile-app/.idea/
+mobile-app/build/
+mobile-app/ios/Pods/
+mobile-app/ios/.symlinks/
+mobile-app/ios/Flutter/Flutter.podspec
+mobile-app/android/.gradle/
+mobile-app/android/app/src/debug/
+mobile-app/android/app/src/profile/
+mobile-app/android/app/src/release/
+mobile-app/android/key.properties
+mobile-app/macos/Flutter/ephemeral/
+mobile-app/macos/Pods/
+mobile-app/linux/flutter/ephemeral/
+mobile-app/windows/flutter/ephemeral/
+mobile-app/.flutter-plugins
+mobile-app/.flutter-plugins-dependencies
+
+# Security (JANGAN UPLOAD FILE INI)
+google-services.json
+GoogleService-Info.plist
