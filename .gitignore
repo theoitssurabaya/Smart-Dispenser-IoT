@@ -37,3 +37,4 @@ mobile-app/.flutter-plugins-dependencies
 # Security (JANGAN UPLOAD FILE INI)
 google-services.json
 GoogleService-Info.plist
+mobile-app/lib/firebase_options.dart
